@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main(){
     int n, i, last;
-    int n, i, first;
     printf("enter number of element");
     scanf("%d", &n);
     int arr[n];
